@@ -18,4 +18,4 @@ Tugas lain yang harus dilakukan adalah mengubah nama file output dari **_myapp_*
 
 ### Submit Tugas
 
-Seluruh tugas disubmit ke Github Classroom dengan menggunakan mekanisme push sesuai dengan repository yang telah ditentukan pada Github Classroom. Akan ada autograding yang dilakukan di Github Classroom dan Anda dapat mengupdate kode jika autograding failed. 
+Seluruh tugas disubmit ke Github Classroom dengan menggunakan mekanisme push sesuai dengan repository yang telah ditentukan pada Github Classroom. Akan ada autograding yang dilakukan di Github Classroom dan Anda dapat mengupdate kode jika autograding failed.

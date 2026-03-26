@@ -3,7 +3,9 @@
 using namespace std;
 
 int main(int argc, char ** argv) {
-    cout << "Hello world!" << endl;
-    cout << "halo dunia" << endl;
-    return 0;
+    string name;
+    cout << "Silahkan inputkan nama Anda : ";
+    cin >>  name;
+    cout << "Hello " << name  <<  endl;
+    return 0; 
 }
